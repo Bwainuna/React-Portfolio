@@ -7,7 +7,7 @@ const AboutMe = () => {
     <div className="about-me-container">
       <div className="about-content">
         <div className="text-content">
-          <h2>About Me</h2>
+          <h2 className="about-header">About Me</h2>
           <p>
             Hey there! I'm Blake Boiteux, a 25-year-old web development student in Salt Lake City.
             Currently attending Utah Valley University and diving into a full-stack dev bootcamp.

@@ -8,11 +8,15 @@
   
   .about-content {
     display: flex;
-    background-color: #333;
+    background-color: #141414;
     color: #fff;
     border-radius: 10px;
     overflow: hidden; /* Ensure the rounded corners apply to the image */
     margin-top: 20px; /* Add space between the image container and the about me container */
+  }
+  
+  .about-header{
+    color: #ab76ec;
   }
   
   .text-content {
@@ -22,7 +26,7 @@
   
   .cover-container {
     width: 300px; /* Set the width of the image container as needed */
-    background-color: #555; /* Change the background color as needed */
+    background-color: #282828; /* Change the background color as needed */
     overflow: hidden; /* Ensure the rounded corners apply to the image */
   }
   

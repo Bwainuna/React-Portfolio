@@ -45,7 +45,7 @@ body {
   padding: 15px;
   width: 100%;
   box-sizing: border-box;
-  border: 1px solid #fff; /* Input border color */
+  border: 1px solid #070707; /* Input border color */
   border-radius: 8px;
   background-color: #333; /* Input background color */
   color: #fff; /* Input text color */
@@ -53,7 +53,7 @@ body {
 
 /* Submit Button Styles */
 .submit-button {
-  background-color: #42a5f5; /* Button color */
+  background-color: #ab76ec; /* Button color */
   color: #fff; /* Text color */
   padding: 15px 30px;
   border: none;

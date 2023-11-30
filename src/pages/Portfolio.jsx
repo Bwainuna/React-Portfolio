@@ -6,21 +6,21 @@ const Portfolio = () => {
   const projects = [
     {
       title: "Project 1",
-      imageSrc: "src\assets\Portfoliopic.png",
-      deployLink: "https://example.com/project1",
-      githubLink: "https://github.com/example/project1"
+      imageSrc: "src/assets/Screenshot1.png",
+      deployLink: "https://bwainuna.github.io/Blake-Boiteux-Professional-Portfolio/",
+      githubLink: "https://github.com/Bwainuna/Blake-Boiteux-Professional-Portfolio"
     },
     {
         title: "Project 2",
-        imageSrc: "https://via.placeholder.com/600x400",
-        deployLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        imageSrc: "src/assets/Skywatch.png",
+        deployLink: "https://jensenjamessaoit.github.io/Skywatch/",
+        githubLink: "https://github.com/jensenjamessaoit/Skywatch"
       },
       {
         title: "Project 3",
-        imageSrc: "https://via.placeholder.com/600x400",
-        deployLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        imageSrc: "src/assets/Screenshot 2023-11-30 123117.png",
+        deployLink: "https://www.youtube.com/watch?v=XoBGYckdOBw",
+        githubLink: "https://github.com/Bwainuna/Blake-Boiteux-Professional-Portfolio/settings/pages"
       },
       {
         title: "Project 4",
