@@ -29,5 +29,9 @@
     "pretty": "^2.0.0",
     "vite": "^5.0.4",
     "vitest": "^0.30.1"
-  }
+  },
+  "description": "AS AN employer looking for candidates with experience building single-page applications\r I WANT to view a potential employee's deployed React portfolio of work samples\r SO THAT I can assess whether they're a good candidate for an open position",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
