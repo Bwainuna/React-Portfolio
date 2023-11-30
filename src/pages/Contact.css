@@ -1,0 +1,75 @@
+/* src/components/Contact.css */
+
+/* Import Montserrat font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+/* Apply Montserrat font to the entire document */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Contact Container */
+.contact-container {
+    background: linear-gradient(to bottom, #141414, #141414); /* Gradient background */
+    color: #fff; /* Text color */
+  padding: 40px;
+
+  /* Center content */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Contact Form */
+.contact-form {
+  width: 100%; /* Take full width of the container */
+  max-width: 400px; /* Limit the form width for readability */
+}
+
+/* Form Group */
+.form-group {
+  margin-bottom: 30px;
+}
+
+/* Label Styles */
+.form-group label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #fff; /* Label text color */
+}
+
+/* Input and Textarea Styles */
+.form-group input,
+.form-group textarea {
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #fff; /* Input border color */
+  border-radius: 8px;
+  background-color: #333; /* Input background color */
+  color: #fff; /* Input text color */
+}
+
+/* Submit Button Styles */
+.submit-button {
+  background-color: #42a5f5; /* Button color */
+  color: #fff; /* Text color */
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #1e88e5; /* Hover color */
+}
+
+/* Larger "Contact Us" Heading */
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}

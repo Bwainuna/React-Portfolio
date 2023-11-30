@@ -1,0 +1,42 @@
+/* src/pages/Resume.css */
+
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333; /* Adjust text color as needed */
+  }
+  
+  .resume-link {
+    margin-bottom: 20px;
+  }
+  
+  .resume-link a {
+    text-decoration: none;
+    color: #007bff; /* Adjust link color as needed */
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .resume-link a:hover {
+    text-decoration: underline;
+  }
+  
+  .proficiencies {
+    margin-top: 20px;
+  }
+  
+  .proficiencies h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .proficiencies ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .proficiencies li {
+    margin-bottom: 5px;
+  }
+  

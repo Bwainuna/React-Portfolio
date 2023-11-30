@@ -1,0 +1,40 @@
+/* src/pages/AboutMe.css */
+
+.about-me-container {
+    max-width: 1000px; /* Increase the max-width for a larger about me container */
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    overflow: hidden; /* Ensure the rounded corners apply to the image */
+    margin-top: 20px; /* Add space between the image container and the about me container */
+  }
+  
+  .text-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .cover-container {
+    width: 300px; /* Set the width of the image container as needed */
+    background-color: #555; /* Change the background color as needed */
+    overflow: hidden; /* Ensure the rounded corners apply to the image */
+  }
+  
+  .cover-container img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 0 10px 10px 0; /* Adjust the rounded corners as needed */
+  }
+  
+  h2,
+  p {
+    margin-bottom: 15px;
+  }
+  

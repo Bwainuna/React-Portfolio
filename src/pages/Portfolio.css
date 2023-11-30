@@ -1,0 +1,38 @@
+/* Portfolio.css */
+
+.portfolio-container {
+    text-align: center;
+    padding: 20px; /* Add padding to prevent projects from going under the footer */
+  }
+  
+  .projects-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto; /* Remove the top margin and center projects */
+    max-width: 1200px; /* Set a maximum width to control the overall width */
+    margin-bottom: 80px; /* Add margin to create space between projects and the footer */
+  }
+  
+  .project-container {
+    width: 30%; /* Adjust the width based on your preference to make them smaller */
+    margin-bottom: 20px;
+  }
+  
+  .project-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Add some border-radius for a rounded look */
+  }
+  
+  .project-details {
+    margin-top: 10px;
+  }
+  
+  .project-links a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #42a5f5; /* Change link color to match your theme */
+  }
+  
