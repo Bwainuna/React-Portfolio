@@ -37,6 +37,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Deployment and Repo Links
 
 Repo:https://github.com/Bwainuna/React-Portfolio
+Deployed: https://blake-boiteux-react-portfolio.netlify.app/
 
 
 ## Screenshots
